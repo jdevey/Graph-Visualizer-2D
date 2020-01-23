@@ -1,0 +1,10 @@
+*.class
+*.json
+<<<<<<< HEAD
+*.flv
+*.zip
+=======
+>>>>>>> parent of 7113eb1... final commit
+workspace.xml
+build/
+/scratch/*

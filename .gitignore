@@ -1,0 +1,8 @@
+*.class
+*.json
+*.flv
+*.zip
+workspace.xml
+build/
+/scratch/*
+*.exe
